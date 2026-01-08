@@ -126,3 +126,45 @@
   margin-top: 16px;
   color: rgba(98, 115, 130, 1);
 }
+
+.cards-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 44px 120px 0 120px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 322px;
+  width: 300px;
+  padding: 24px;
+  margin-bottom: 72px;
+  gap: 16px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.06);
+}
+
+.card-circle {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  background: rgba(249, 85, 85, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card h4 {
+  font-weight: 600;
+  font-size: 24px;
+  color: rgba(0, 25, 49, 1);
+  text-transform: capitalize;
+}
+
+.card p {
+  color: rgba(98, 115, 130, 1);
+}
