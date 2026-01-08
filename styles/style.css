@@ -240,7 +240,7 @@
 }
 
 .early-access-section {
-  padding: 0 120p;
+  padding: 0 120px;
   background: white;
 }
 
@@ -252,7 +252,7 @@
   justify-content: center;
   gap: 16px;
   border-radius: 12px;
- 
+  background: rgba(247, 246, 242, 1);
 }
 
 .early-access-section-container h4 {
@@ -271,6 +271,7 @@
   display: flex;
   align-items: center;
   gap: 10px;
+  margin-top: 16px;
 }
 
 .early-access-lower-para {
