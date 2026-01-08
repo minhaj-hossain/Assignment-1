@@ -168,3 +168,62 @@
 .card p {
   color: rgba(98, 115, 130, 1);
 }
+
+.second-brain-section {
+  padding: 120px;
+  display: flex;
+  gap: 60px;
+}
+
+.second-brain-section-left img {
+  height: 400px;
+  width: 400x;
+}
+
+.second-brain-section-right {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.second-brain-section-right .upper-para {
+  color: rgba(70, 145, 101, 1);
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.second-brain-section-right h2 {
+  font-size: 48fpx;
+  font-weight: 700;
+  color: rgba(0, 25, 49, 1);
+  text-transform: capitalize;
+}
+
+.second-brain-section-right p {
+  color: rgba(98, 115, 130, 1);
+  line-height: 1.8;
+}
+
+.second-brain-section-right .minor-btn {
+  color: rgba(98, 115, 130, 1);
+}
+
+.second-brain-section-right-check-list {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+.check-icon {
+  height: 20px;
+  width: 20px;
+}
+
+.second-brain-section-right-check-list p {
+  font-weight: 500;
+  color: rgba(0, 25, 49, 1);
+}
+
+.check-list-container {
+  margin-top: 20px;
+}
