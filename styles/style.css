@@ -83,7 +83,7 @@
   border-radius: 4px;
   background: rgba(70, 145, 101, 1);
   box-shadow: 0 0 0 5px rgba(74, 140, 106, 0.4),
-    0 0 0 20px rgba(74, 140, 106, 0.1); /* this was hard to make*/
+    0 0 0 20px rgba(74, 140, 106, 0.1); 
   margin-right: 2px;
 }
 
